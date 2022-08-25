@@ -1,0 +1,27 @@
+body {
+    font-family: monospace;
+    font-size: medium;
+ 
+}
+
+.header {
+    text-align: center;
+    font-size: 50px;
+    background-image: linear-gradient(to right, red , yellow);
+}
+
+
+.search-word{
+    font-size: 30px;
+}
+
+.btn {
+    width: 70px;
+    height: 40px;
+    
+}
+
+.form-control {
+    height: 20px;
+}
+
